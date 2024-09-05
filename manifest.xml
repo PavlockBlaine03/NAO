@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package installOnlyAtStartup="false" uuid="test-2059c9" version="0.0.0">
+<package version="0.0.0" installOnlyAtStartup="false" uuid="test-2059c9">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -17,6 +17,11 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Behavior_2">
+   <nature>interactive</nature>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="behavior_3">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
